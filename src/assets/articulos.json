@@ -1,0 +1,46 @@
+{
+  "articulos": [
+    {
+      "id": 1,
+      "descripcion": "Harina",
+      "precio": 15000,
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "descripcion": "Coca Cola 1 litro",
+      "precio": 10000,
+      "stock": 60
+    },
+    {
+      "id": 3,
+      "descripcion": "Vino Malbec",
+      "precio": 85000,
+      "stock": 42
+    },
+    {
+      "id": 4,
+      "descripcion": "Azucar 1KG",
+      "precio": 5000,
+      "stock": 5
+    },
+    {
+      "id": 6,
+      "descripcion": "Detergente líquido",
+      "precio": "13000",
+      "stock": "50"
+    },
+    {
+      "id": 7,
+      "descripcion": "Chocolate blanco",
+      "precio": "15000",
+      "stock": "23"
+    },
+    {
+      "id": 8,
+      "descripcion": "vinagre 1 litro ",
+      "precio": "10000",
+      "stock": "12"
+    }
+  ]
+}
